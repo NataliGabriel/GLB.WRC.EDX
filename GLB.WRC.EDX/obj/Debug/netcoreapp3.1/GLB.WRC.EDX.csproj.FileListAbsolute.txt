@@ -1,0 +1,5 @@
+F:\Projetos\GLB\DLogEDX\WorldCargo\Projeto\GLB.WRC.EDX\GLB.WRC.EDX\obj\Debug\netcoreapp3.1\GLB.WRC.EDX.csproj.AssemblyReference.cache
+F:\Projetos\GLB\DLogEDX\WorldCargo\Projeto\GLB.WRC.EDX\GLB.WRC.EDX\obj\Debug\netcoreapp3.1\GLB.WRC.EDX.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\GLB\DLogEDX\WorldCargo\Projeto\GLB.WRC.EDX\GLB.WRC.EDX\obj\Debug\netcoreapp3.1\GLB.WRC.EDX.AssemblyInfoInputs.cache
+F:\Projetos\GLB\DLogEDX\WorldCargo\Projeto\GLB.WRC.EDX\GLB.WRC.EDX\obj\Debug\netcoreapp3.1\GLB.WRC.EDX.AssemblyInfo.cs
+F:\Projetos\GLB\DLogEDX\WorldCargo\Projeto\GLB.WRC.EDX\GLB.WRC.EDX\obj\Debug\netcoreapp3.1\GLB.WRC.EDX.csproj.CoreCompileInputs.cache
